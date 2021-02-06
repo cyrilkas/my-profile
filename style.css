@@ -79,9 +79,10 @@ a:hover {
  border-radius: 4px;
 }
 
-.img-circle{
- border-radius: 50%
- width="100px"
+.img-circle {
+ border-radius: 50%;
+ max-width: 100%;
+ height: auto;
 }
 
 .btn-green{
